@@ -8,3 +8,4 @@
 - `no_richard_its_linux`: The "No Richard, it's Linux" copypasta but I gave up on it because it didn't fit in a single Discord message.
 ## Miscellaneous
 - `volumekeys.ahk`: a simple AHK script to bind Shift + F1 to volume down and Shift + F2 to volume up, intended for use on keyboards without multimedia controls.
+- `trademark.ahk`: types the trademark symbol(™).
